@@ -1,0 +1,41 @@
+leftnav:
+- identifier: a2ec6aa6-dfae-46cc-885d-7c778ee9a8fe
+  name: Week 1
+  pageRef: /pages/week-1
+  weight: 10
+- identifier: c9de3a8f-2598-4d39-bb10-2fd99fbf5a07
+  name: Week 2
+  pageRef: /pages/week-2
+  weight: 20
+- identifier: 2ba407e0-bf1f-40f9-9e07-5acd04425b0a
+  name: Week 3
+  pageRef: /pages/week-3
+  weight: 30
+- identifier: 15aa8ef1-02ea-4497-9a37-1c6d790e3ea3
+  name: Week 4
+  pageRef: /pages/week-4
+  weight: 40
+- identifier: 4e574572-b717-41ff-be0b-9085969b4398
+  name: Week 5
+  pageRef: /pages/week-5
+  weight: 50
+- identifier: eb06462a-5730-4cde-ba62-fa5f9bc32098
+  name: Week 6
+  pageRef: /pages/week-6
+  weight: 60
+- identifier: d90e95c5-ea08-4e60-9971-2c40b605bd37
+  name: Week 7
+  pageRef: /pages/week-7
+  weight: 70
+- identifier: 596ccfea-26d2-4826-915a-2486a90e1d9c
+  name: Week 8
+  pageRef: /pages/week-8
+  weight: 80
+- identifier: fb814edd-8e8a-488a-864b-87327e4c60e6
+  name: Week 9
+  pageRef: /pages/week-9
+  weight: 90
+- identifier: 27deb6c6-3c01-44bc-8859-2cffecf24ec8
+  name: Week 10
+  pageRef: /pages/week-10
+  weight: 100
