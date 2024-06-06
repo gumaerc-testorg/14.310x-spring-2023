@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 05: Summarizing and Describing Data'
+title: 'Lecture 05: Summarizing and Describing Data'
 uid: 985479ca-abb9-4f9e-ad75-c2d71ee7463b
 video_files:
   archive_url: ''

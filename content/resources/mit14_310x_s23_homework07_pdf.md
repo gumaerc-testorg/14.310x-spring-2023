@@ -13,7 +13,7 @@ learning_resource_types:
 - Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT 14.310x S23 Homework 07
+title: Homework 07
 uid: e6858f88-f383-4856-a0bf-18ad2e656d28
 video_files:
   archive_url: ''

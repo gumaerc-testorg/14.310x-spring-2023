@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 17: The Linear Model'
+title: 'Lecture 17: The Linear Model'
 uid: 2dc85d79-017d-4f8b-96da-4ab67b2a69eb
 video_files:
   archive_url: ''

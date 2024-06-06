@@ -113,7 +113,7 @@ True or false? You can still construct a confidence interval for the mean of th
 Suppose that the 8 large regions of Vietnam were randomized into one of the following groups: 
 
 - In some regions, the local health care centers continued to be run by the government (control group: 4 regions).
-- In others, the health centers were subcontracted out to a NGO (treatment group: 4 regions).
+- In others, the health centers were subcontracted out to an NGO (treatment group: 4 regions).
 
 You have access to information from a child health survey, which covers  1,000 children per region and gives you information on whether or not the children have been fully immunized.
 
@@ -173,7 +173,7 @@ True or false? Instead of including the TEA dummy, she could include one dummy f
 
 [Download the data set](https://studio.mitxonline.mit.edu/assets/courseware/v1/bbf68069ed2763d0bf83506acd468a88/asset-v1:MITxT+14.310x+3T2021+type@asset+block/qian.csv) used in Qian's paper (qian.csv). The data contains the following variables:
 
-●     **admin**: an id for each region in China.
+●     **admin**: an ID for each region in China.
 
 ●     **birthyear**: a variable that corresponds to year.
 

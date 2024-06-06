@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 20: Omitted Variable Bias'
+title: 'Lecture 20: Omitted Variable Bias'
 uid: 12358a56-f43e-41e4-872c-8d522031c85b
 video_files:
   archive_url: ''

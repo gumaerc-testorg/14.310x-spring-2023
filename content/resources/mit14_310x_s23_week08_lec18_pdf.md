@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 18: The Multivariate Linear Model'
+title: 'Lecture 18: The Multivariate Linear Model'
 uid: dbde5f95-d4f0-4d4a-9cfd-77224153b5e4
 video_files:
   archive_url: ''

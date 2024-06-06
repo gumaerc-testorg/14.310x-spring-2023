@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 01: Introduction'
+title: 'Lecture 01: Introduction'
 uid: 8ffad60c-2ce1-4cbc-b451-2387c7a14366
 video_files:
   archive_url: ''

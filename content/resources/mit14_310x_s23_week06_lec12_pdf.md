@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 12: Assessing and Deriving Estimators'
+title: 'Lecture 12: Assessing and Deriving Estimators'
 uid: 8c4bfcec-ce58-4baf-bfe2-960903cb8318
 video_files:
   archive_url: ''

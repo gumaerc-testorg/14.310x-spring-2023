@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 22: Experimental Design'
+title: 'Lecture 22: Experimental Design'
 uid: caecb2c1-aba5-4eb5-952b-075e04f7d528
 video_files:
   archive_url: ''
