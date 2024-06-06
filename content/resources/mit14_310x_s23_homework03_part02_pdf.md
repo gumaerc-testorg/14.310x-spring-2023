@@ -13,7 +13,7 @@ learning_resource_types:
 - Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT 14.310x S23 Homework 03 Part 02
+title: Homework 03 Part 02
 uid: 120c1e62-010f-4284-ba5a-d7577e964592
 video_files:
   archive_url: ''

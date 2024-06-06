@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 19: Practical Issues in Running Regressions'
+title: 'Lecture 19: Practical Issues in Running Regressions'
 uid: 00a5789f-8141-41a8-94c1-627a34ef9787
 video_files:
   archive_url: ''

@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 03: Random Variables, Distributions, and Joint
-  Distributions'
+title: 'Lecture 03: Random Variables, Distributions, and Joint Distributions'
 uid: 1f552598-e1b0-4853-bcf7-920784279810
 video_files:
   archive_url: ''

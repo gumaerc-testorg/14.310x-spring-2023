@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 10: Special Distribution'
+title: 'Lecture 10: Special Distribution'
 uid: 1c5197fb-fa8d-4156-aa68-29108e516c7a
 video_files:
   archive_url: ''

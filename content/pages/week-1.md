@@ -6,13 +6,11 @@ draft: false
 title: Week 1
 uid: a2ec6aa6-dfae-46cc-885d-7c778ee9a8fe
 ---
-## Lecture Slides
+## Lecture 1
 
-{{% resource_link "8ffad60c-2ce1-4cbc-b451-2387c7a14366" "Lecture 1: Introduction (PDF)" %}}
+{{% resource_link "8ffad60c-2ce1-4cbc-b451-2387c7a14366" "Lecture 1 Slides: Introduction (PDF)" %}}
 
-## Lecture Video
-
- 
+{{< resource uuid="c785891d-0b54-452a-9ad9-02801fd93b83" >}}
 
 ## Homework
 

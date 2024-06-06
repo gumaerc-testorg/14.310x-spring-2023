@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 14: Causality'
+title: 'Lecture 14: Causality'
 uid: c478de59-c517-4aa7-8b76-7e3791c8178f
 video_files:
   archive_url: ''

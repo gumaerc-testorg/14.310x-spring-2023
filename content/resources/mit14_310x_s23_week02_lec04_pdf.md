@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 04: Gathering and Collecting Data'
+title: 'Lecture 04: Gathering and Collecting Data'
 uid: 725e422a-7c44-4c77-bf54-a3f2e7475345
 video_files:
   archive_url: ''

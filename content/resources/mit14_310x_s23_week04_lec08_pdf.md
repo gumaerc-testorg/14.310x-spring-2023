@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 08: Moments of Distribution'
+title: 'Lecture 08: Moments of Distribution'
 uid: b74b2310-23a8-4d42-8817-02feb46f81d0
 video_files:
   archive_url: ''

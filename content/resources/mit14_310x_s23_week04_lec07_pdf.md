@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 07: Functions of Random Variables'
+title: 'Lecture 07: Functions of Random Variables'
 uid: 8f1678c7-609d-4ba8-b487-07866d2f6a0d
 video_files:
   archive_url: ''

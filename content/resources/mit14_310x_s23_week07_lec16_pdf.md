@@ -13,8 +13,8 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 16: (More) Explanatory Data Analysis: Nonparametric
-  Comparisons and Regressions'
+title: 'Lecture 16: (More) Explanatory Data Analysis: Nonparametric Comparisons and
+  Regressions'
 uid: 33ea90eb-42aa-4e00-9cba-efbd12a07112
 video_files:
   archive_url: ''

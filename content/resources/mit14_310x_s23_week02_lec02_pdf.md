@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 02: Fundamentals of Probability'
+title: 'Lecture 02: Fundamentals of Probability'
 uid: a7fb64fc-650c-4f3f-b560-c0edecf880b6
 video_files:
   archive_url: ''

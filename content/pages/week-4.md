@@ -7,15 +7,23 @@ draft: false
 title: Week 4
 uid: 15aa8ef1-02ea-4497-9a37-1c6d790e3ea3
 ---
-## Lecture Slides
+## Lecture 7
 
-{{% resource_link "8f1678c7-609d-4ba8-b487-07866d2f6a0d" "Lecture 7: Functions of Random Variables (PDF)" %}}
+{{% resource_link "8f1678c7-609d-4ba8-b487-07866d2f6a0d" "Lecture 7 Slides: Functions of Random Variables (PDF)" %}}
 
-{{% resource_link "b74b2310-23a8-4d42-8817-02feb46f81d0" "Lecture 8: Moments of Distribution (PDF)" %}}
+{{< resource uuid="25d0dfbe-638b-4a41-827d-3dcbab651a14" >}}
 
-{{% resource_link "aebf3f15-d981-4bb9-aa9c-4f775bb57ce6" "Lecture 9: Expectation, Variance, and Introduction to Regression (PDF)" %}}
+## Lecture 8
 
-## Lecture Video
+{{% resource_link "b74b2310-23a8-4d42-8817-02feb46f81d0" "Lecture 8 Slides: Moments of Distribution (PDF)" %}}
+
+{{< resource uuid="070b7978-7621-4dc1-9285-e7dcfa482d4d" >}}
+
+## Lecture 9
+
+{{% resource_link "aebf3f15-d981-4bb9-aa9c-4f775bb57ce6" "Lecture 9 Slides: Expectation, Variance, and Introduction to Regression (PDF)" %}}
+
+{{< resource uuid="81d164bb-8e73-4af8-930e-be8aa1504681" >}}
 
 ## Homework
 
