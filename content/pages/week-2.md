@@ -7,15 +7,23 @@ draft: false
 title: Week 2
 uid: c9de3a8f-2598-4d39-bb10-2fd99fbf5a07
 ---
-## Lecture Slides
+## Lecture 2
 
-{{% resource_link "a7fb64fc-650c-4f3f-b560-c0edecf880b6" "Lecture 2: Fundamentals of Probability (PDF)" %}}
+{{% resource_link "a7fb64fc-650c-4f3f-b560-c0edecf880b6" "Lecture 2 Slides: Fundamentals of Probability (PDF)" %}}
 
-{{% resource_link "1f552598-e1b0-4853-bcf7-920784279810" "Lecture 3: Random Variables, Distributions, and Joint Distributions (PDF)" %}}
+{{< resource uuid="886d05da-1867-4492-8220-f68baf5d0190" >}}
 
-{{% resource_link "725e422a-7c44-4c77-bf54-a3f2e7475345" "Lecture 4: Gathering and Collecting Data (PDF)" %}}
+## Lecture 3
 
-## Lecture Video
+{{% resource_link "1f552598-e1b0-4853-bcf7-920784279810" "Lecture 3 Slides: Random Variables, Distributions, and Joint Distributions (PDF)" %}}
+
+{{< resource uuid="2faf8028-0a10-4bff-bd62-f9aa4df69eb8" >}}
+
+## Lecture 4
+
+{{% resource_link "725e422a-7c44-4c77-bf54-a3f2e7475345" "Lecture 4 Slides: Gathering and Collecting Data (PDF)" %}}
+
+{{< resource uuid="4a53ff14-aac3-41db-bf68-2c52bdfb1bad" >}}
 
 ## Homework
 

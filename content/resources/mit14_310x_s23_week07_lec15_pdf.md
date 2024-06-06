@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 15: Analyzing Randomized Experiments'
+title: 'Lecture 15: Analyzing Randomized Experiments'
 uid: 538d260d-854f-4b65-aa3c-60350b3adb5a
 video_files:
   archive_url: ''

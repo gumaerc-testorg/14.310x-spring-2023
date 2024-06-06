@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 09: Expectation, Variance, and Introduction to
-  Regression'
+title: 'Lecture 09: Expectation, Variance, and Introduction to Regression'
 uid: aebf3f15-d981-4bb9-aa9c-4f775bb57ce6
 video_files:
   archive_url: ''

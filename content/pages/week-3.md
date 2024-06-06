@@ -7,13 +7,17 @@ draft: false
 title: Week 3
 uid: 2ba407e0-bf1f-40f9-9e07-5acd04425b0a
 ---
-## Lecture Slides
+## Lecture 5 
 
-{{% resource_link "985479ca-abb9-4f9e-ad75-c2d71ee7463b" "Lecture 5: Summarizing and Describing Data (PDF)" %}}
+{{% resource_link "985479ca-abb9-4f9e-ad75-c2d71ee7463b" "Lecture 5 Slides: Summarizing and Describing Data (PDF)" %}}
 
-{{% resource_link "f522fc84-8103-4ec1-b736-8f719b97a430" "Lecture 6: Joint, Marginal, and Conditional Distributions (PDF)" %}}
+{{< resource uuid="63520cc7-90e5-4696-b890-5014f43504bf" >}}
 
-## Lecture Video
+## Lecture 6
+
+{{% resource_link "f522fc84-8103-4ec1-b736-8f719b97a430" "Lecture 6 Slides: Joint, Marginal, and Conditional Distributions (PDF)" %}}
+
+{{< resource uuid="81c6fffa-ca01-4d33-9cbf-52868bbb5801" >}}
 
 ## Homework
 

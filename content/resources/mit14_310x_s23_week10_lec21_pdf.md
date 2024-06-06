@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 21: Endogeneity and Instrument Variables'
+title: 'Lecture 21: Endogeneity and Instrument Variables'
 uid: 2e9aad24-eded-42eb-8500-b8bd93556dca
 video_files:
   archive_url: ''

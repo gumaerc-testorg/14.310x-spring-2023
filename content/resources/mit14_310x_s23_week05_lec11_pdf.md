@@ -13,8 +13,8 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 11: Special Distrubtions, continued. The Sample
-  Mean, Central Limit Theorem, and Estimation'
+title: 'Lecture 11: Special Distributions, continued. The Sample Mean, Central Limit
+  Theorem, and Estimation'
 uid: f82bdb63-d389-4e2d-9c90-d429cf44c775
 video_files:
   archive_url: ''

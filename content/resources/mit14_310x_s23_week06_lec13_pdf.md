@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 14.310x Spring 2023 Lecture 13. Confidence Intervals, Hypothesis Testing, and
-  Power Calculations
+title: Lecture 13. Confidence Intervals, Hypothesis Testing, and Power Calculations
 uid: 1cfaa77a-f996-42a2-8d71-5b01a553a658
 video_files:
   archive_url: ''

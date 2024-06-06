@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '14.310x Spring 2023 Lecture 06:  Joint, Marginal, and Conditional Distributions'
+title: 'Lecture 06:  Joint, Marginal, and Conditional Distributions'
 uid: f522fc84-8103-4ec1-b736-8f719b97a430
 video_files:
   archive_url: ''
