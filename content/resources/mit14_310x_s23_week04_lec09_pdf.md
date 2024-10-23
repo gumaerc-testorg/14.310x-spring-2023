@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/14-310x-data-analysis-for-social-scientists-spring-2023/mit14_310x_s23_week04_lec09.pdf
+file: /ol-ocw-studio-app/courses/14-310x-data-analysis-for-social-scientists-spring-2023/mit14_310x_s23_week04_lec09.pdf
 file_size: 521573
 file_type: application/pdf
 image_metadata:
