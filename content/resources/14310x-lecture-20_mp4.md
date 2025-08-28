@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/data-analysis-for-social-scientists/14310x-lecture-20_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/14-310x-data-analysis-for-social-scientists-spring-2023/14310x-lecture-20_360p_16_9.mp4
 file_size: 124513740
 file_type: video/mp4
 image_metadata:
