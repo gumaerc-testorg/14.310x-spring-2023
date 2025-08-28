@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/data-analysis-for-social-scientists/mit14_310x_s23_chp_th.png
+file: /ol-ocw-studio-app/courses/14-310x-data-analysis-for-social-scientists-spring-2023/mit14_310x_s23_chp_th.png
 file_size: 39105
 file_type: image/png
 image_metadata:
